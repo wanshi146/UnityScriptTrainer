@@ -27,7 +27,7 @@
   </ItemGroup> -->
 
   <PropertyGroup>
-    <game_Location>F:\steam\steamapps\common\The Scroll Of Taiwu</game_Location>
+    <game_Location>E:\steam\steamapps\common\The Scroll Of Taiwu</game_Location>
     <game_Data>The Scroll of Taiwu_Data</game_Data>
   </PropertyGroup>
   <ItemGroup>
